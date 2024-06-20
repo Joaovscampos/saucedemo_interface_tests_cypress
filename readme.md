@@ -37,6 +37,11 @@ Executar os testes
  3. Clicar no botão "Start E2E Testing in (Navegador escolhido) "
  4. Clicar em "Run all specs"
  
- ##Testes 
+ ## 📽️ Testes 
+ Ao todo foram realizados 11 testes automatizados.
+
+https://github.com/Joaovscampos/saucedemo_interface_tests_cypress/assets/105242114/a93066fe-8923-437d-bd85-44ea30b19093
+
+
  
  
