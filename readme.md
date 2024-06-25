@@ -35,7 +35,7 @@ Executar os testes
  1. Clicar no botão "E2E Testing"
  2. Escolher o navegador de sua preferência
  3. Clicar no botão "Start E2E Testing in (Navegador escolhido) "
- 4. Clicar em "Run all specs"
+ 4. Clicar em "Run 3 specs"
  
  ## 📽️ Testes 
  Ao todo foram realizados 11 testes automatizados.
