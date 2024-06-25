@@ -29,15 +29,25 @@ Instalar as dependências
     npm install 
 Abrir o cypress
 
-    npm run cypress:open
+    npm run cy:open
 Executar os testes
 
  1. Clicar no botão "E2E Testing"
  2. Escolher o navegador de sua preferência
  3. Clicar no botão "Start E2E Testing in (Navegador escolhido) "
  4. Clicar em "Run 3 specs"
+<<<<<<< HEAD
  
  ## 📽️ Testes 
  
+=======
+ 
+ ## 📽️ Testes 
+ Ao todo foram realizados 11 testes automatizados.
+
+https://github.com/Joaovscampos/saucedemo_interface_tests_cypress/assets/105242114/a93066fe-8923-437d-bd85-44ea30b19093
+
+
+>>>>>>> 032dbb94d7eee264f301084def600fced178568d
  
  
