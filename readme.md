@@ -29,7 +29,7 @@ Instalar as dependências
     npm install 
 Abrir o cypress
 
-    npm run cypress:open
+    npm run cy:open
 Executar os testes
 
  1. Clicar no botão "E2E Testing"
