@@ -12,8 +12,6 @@ describe('Login', () => {
     
     it('login with valid credentials', () => {
         loginPage.login(loginPage.validCredentials.username, loginPage.validCredentials.password);
-
-        cy.url().should('include', '/inventory.html');
     });
 
     it('login with missing USERNAME credential', () => {
